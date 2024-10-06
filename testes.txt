@@ -1,0 +1,145 @@
+Acúmulo de Gelo 
+Causa: 1. Umidade excessiva
+       2. Temperatura muito baixa
+       3. Obstrução no sistema de drenagem
+       4. Falta de degelo no evaporador
+Solução: 1. Reduza a umidade interna da câmara (desumidificador, ventilação adequada)
+         2. Verifique o isolamento térmico da câmara, verifique o termostato
+         3. Configure os intervalos de degelo 
+         4. Verifique e desobstrua o sistema de drenagem
+
+Compressor com Ruído Alto
+Causa: 1. A base está solta 
+       2. Golpe de líquido
+       3. Desgaste das peças do compressor 
+Solução: 1. Fixe a base
+         2. Abaixe a válvula de abastecimento de líquido 
+         3. Substitua o compressor
+
+Compressor não Funciona
+Causa: 1. Falha de Energia
+       2. Mau contato do motor de partida
+       3. Falha no termostato
+       4. Controlador de pressão está fora de controle ou com defeito
+Solução: 1. Verifique o circuito de Energia
+         2. Repare ou substitua
+         3. Repare ou substitua
+         4. Repare ou substitua
+
+Compressor não Funciona Continuamente 
+Causa: 1. O sistema de controle está com falha ou a condição de trabalho não é boa 
+       2. Vazamento na válvula de sucção e descarga do compressor 
+Solução: 1. Revise o sistema de controle, ajuste os parâmetros de pressão e temperatura.
+         2. Repare ou substitua
+
+Condensação Excessiva
+Causa: 1. Alta umidade
+       2. Diferença de temperatura entre a câmara e o ambiente externo
+       3. Isolamento térmico deficiente
+Solução: 1. Controle a umidade (desumidificador, ventilação adequada)
+         2. Verifique o isolamento térmico da câmara 
+         3. Verifique o isolamento térmico da câmara, melhore a ventilação interna da câmara (permite a circulação de ar seco)
+
+Degelo não funcionando
+Causa: 1. Fiação da resistência de degelo rompida, queimada
+       2. Resistência de degelo com defeito
+Solução:  1. Troca da fiação
+          2. Meça a resistência com multímetro, se der infinita, troque a resistência
+
+Parada Repentina durante a operação 
+Causa: 1. A pressão de sucção é muito baixa e o relé de baixa tensão está desligado
+       2. A pressão de alta é muito alta e o relé de alta tensão está desligado 
+       3. O motor está superaquecido e o relé térmico está desligado.
+Solução: 1. Desobstrua o bloqueio do tubo e adicione fluido refrigerante 
+         2. Verifique o volume de ar de resfriamento e pressione o botão de reinicialização de alta pressão
+         3. Verifique se a tensão está muito baixa, se a carga de resfriamento é muito grande
+
+Pressão de Alta muito Alta
+Causa: 1. Condensador muito sujo
+       2. Há ar no sistema 
+       3. Excesso de fluido refrigerante
+Solução: 1. Limpe o Condensador
+         2. Recolha o fluido refrigerante e faça vácuo no sistema
+         3. Libere fluido refrigerante
+
+Pressão de Alta muito Baixa
+Causa: 1. Falta de fluido refrigerante 
+       2. Vazamento na válvula de descarga 
+Solução: 1. Adicione fluido refrigerante 
+         2. Repare a válvula ou a substitua 
+
+Pressão de Sucção muito Alta
+Causa: 1. Válvula de expansão muito aberta
+       2. Vazamento na válvula de sucção do compressor 
+Solução: 1. Reajuste a válvula
+         2. Repare ou substitua o compressor 
+
+Pressão de Sucção muito Baixa 
+Causa: 1. Abertura da válvula de expansão é muito pequena ou bloqueada 
+       2. Fluido refrigerante insuficiente no sistema 
+       3. O fluido refrigerante é impuro e/ou misturado com óleo
+Solução: 1. Ajuste e elimine bloqueios
+         2. Adicione fluido refrigerante
+         3. Substitua o fluido refrigerante e verifique o retorno de óleo do separador de óleo 
+
+Temperatura não está baixa o suficiente
+Causa: 1. A porta da Câmara não está bem fechada
+       2. Há formação de gelo no evaporador
+       3. Baixa eficiência do compressor
+       4. Ajuste inadequado da válvula de expansão ou bloqueio de gelo
+       5. A válvula de expansão está suja ou o filtro está sujo
+       6. Pouco fluido refrigerante no sistema
+       7. Poluição por óleo no interior do tubo
+Solução: 1. Ajuste a folga da porta/feche a porta
+         2. Descongele
+         3. Repare ou substitua o compressor
+         4. Reajuste ou substitua o absorvente de umidade
+         5. Densmontar e lavar
+         6. Adicionar fluido refrigerante
+         7. Limpar com nitrogênio
+
+Temperatura muito baixa
+Causa: 1. O termostato está muito baixo
+       2. A câmara não tem um bom fluxo de ar
+Solução: 1. Verifique o termostato e regule-o
+         2. Verifique as serpentinas do evaporador quanto ao acúmulo de gelo
+
+Válvula de Expansão Congelada
+Causa: Alto teor de água no fluido refrigerante
+Solução: Substitua o filtro secador
+
+Válvula de Expansão suja
+Causa: Sujeira no sistema 
+Solução: Limpeza do sistema, limpeza do filtro da válvula de expansão
+
+Válvula de Expansão com som anormal
+Causa: 1. Refrigerante insuficiente
+       2. O líquido não está superaquecido e a resistência do tubo de líquido está muito alta
+Solução: 1. Adicione refrigerante 
+         2. Descubra o motivo para fazer o líquido ter super-resfriamento
+
+Válvula de Expansão não Funciona
+Causa: 1. Vazamento de refrigerante no sensor de temperatura 
+       2. Orifício e bloqueio de entrada
+Solução: 1. Repare ou substitua
+         2. Repare ou  substitua
+
+Válvula Solenóide não Fecha 
+Causa: 1. O pequeno orifício no corpo da válvula está bloqueado 
+       2. A mola está com defeito
+Solução: 1. Limpe o corpo da válvula 
+         2. Substitua a mola 
+
+Vazamentos da Válvula Solenóide
+Causa: 1. Há Sujeira
+       2. O anel de vedação está gasto 
+       3. A pressão da válvula está muito baixa 
+Solução: 1. Limpe a válvula 
+        2. Substitua o anel 
+        3. Reajuste 
+
+Vazamento de Fluido Refrigerante
+Causa: 1. As tubulações estão corroídas
+       2. Outros componentes desgastados
+Solução: 1. Certifique-se de que as tubulações estejam corretamente isoladas e sem vazamentos ou danos.
+         2. Verifique se o compressor e a serpentina do evaporador estão funcionando corretamente.
